@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-04T15:12:15.623Z",
+  "updatedAt": "2026-11-04T15:16:10.186Z",
   "packs": [
     {
       "id": "safe-defaults",
@@ -17,6 +17,20 @@
       "sha256": "d07a6bc9765374bf8a87aa5b69455e2333d0eb542905179444acfa0633bae3b0",
       "path": "packs/safe-defaults.json",
       "size": 379
+    },
+    {
+      "id": "legit-config-10",
+      "name": "Legit Config 1.0",
+      "author": "ToldByNun",
+      "description": "Small config with live assist for \"undetectable\" @ 60fps. recommended for beginners who ask what the best config is.",
+      "tags": [
+        "shared"
+      ],
+      "minModVersion": "1.4.1",
+      "bundleVersion": 2,
+      "sha256": "ad1d7529fd00e509db9262ff91efc27776b2353b9f9639e217e7782e2f084109",
+      "path": "packs/legit-config-10.json",
+      "size": 2689
     }
   ]
 }
