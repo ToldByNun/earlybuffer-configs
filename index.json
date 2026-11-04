@@ -1,18 +1,36 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-04T00:00:00Z",
+  "updatedAt": "2026-11-04T15:08:56.150Z",
   "packs": [
     {
       "id": "safe-defaults",
       "name": "Safe Defaults",
       "author": "Audesign",
       "description": "Safe Mode on, Live assist, short tick windows — a solid first install. Keybinds and Dev Lab settings are left unchanged when applied from cloud.",
-      "tags": ["safe", "beginner", "live"],
+      "tags": [
+        "safe",
+        "beginner",
+        "live"
+      ],
       "minModVersion": "1.4.0",
       "bundleVersion": 2,
       "sha256": "d07a6bc9765374bf8a87aa5b69455e2333d0eb542905179444acfa0633bae3b0",
       "path": "packs/safe-defaults.json",
       "size": 379
+    },
+    {
+      "id": "probe-setup",
+      "name": "Probe Setup",
+      "author": "setup",
+      "description": "",
+      "tags": [
+        "shared"
+      ],
+      "minModVersion": "1.4.1",
+      "bundleVersion": 2,
+      "sha256": "786aee5673e30c81a6f6175e2ab3e00fc689dcdc09a2751def07804ad2ff3f80",
+      "path": "packs/probe-setup.json",
+      "size": 43
     }
   ]
 }
