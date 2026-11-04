@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-04T15:08:56.150Z",
+  "updatedAt": "2026-11-04T15:12:15.623Z",
   "packs": [
     {
       "id": "safe-defaults",
@@ -31,6 +31,20 @@
       "sha256": "786aee5673e30c81a6f6175e2ab3e00fc689dcdc09a2751def07804ad2ff3f80",
       "path": "packs/probe-setup.json",
       "size": 43
+    },
+    {
+      "id": "plangold-share",
+      "name": "PlanGold Share",
+      "author": "EarlyBuffer",
+      "description": "selfCheck",
+      "tags": [
+        "shared"
+      ],
+      "minModVersion": "1.4.1",
+      "bundleVersion": 2,
+      "sha256": "ad1d7529fd00e509db9262ff91efc27776b2353b9f9639e217e7782e2f084109",
+      "path": "packs/plangold-share.json",
+      "size": 2689
     }
   ]
 }
