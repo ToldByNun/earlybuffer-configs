@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-05T00:30:00.400Z",
+  "updatedAt": "2026-11-05T00:30:09.926Z",
   "packs": {
     "legit-config-10": {
       "downloads": 1,
@@ -18,13 +18,13 @@
     },
     "plangold-share": {
       "downloads": 0,
-      "ratingSum": 2,
+      "ratingSum": 1,
       "ratingCount": 1,
       "dl": [],
       "rt": [
         {
           "h": "3035ceb6ef1cc280",
-          "s": 2
+          "s": 1
         }
       ]
     }
