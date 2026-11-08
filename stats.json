@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-05T00:30:09.926Z",
+  "updatedAt": "2026-11-08T14:53:41.719Z",
   "packs": {
     "legit-config-10": {
       "downloads": 1,
@@ -27,6 +27,15 @@
           "s": 1
         }
       ]
+    },
+    "safe-defaults": {
+      "downloads": 1,
+      "ratingSum": 0,
+      "ratingCount": 0,
+      "dl": [
+        "055d23b2cecd5581"
+      ],
+      "rt": []
     }
   }
 }
