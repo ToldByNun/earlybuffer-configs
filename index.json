@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-08T18:08:01.412Z",
+  "updatedAt": "2026-11-08T18:12:47.091Z",
   "packs": [
     {
       "id": "safe-defaults",
@@ -42,9 +42,9 @@
       ],
       "minModVersion": "1.4.1",
       "bundleVersion": 2,
-      "sha256": "5ce9f5826834b989bd0dd668feec5dca4c616fd89f1aa57b8fcef0102189589e",
+      "sha256": "08f3a12817dc538963777c18854df377b0b5bd2c0082514338e569b031960778",
       "path": "packs/plangold-share.json",
-      "size": 2638
+      "size": 2627
     },
     {
       "id": "v143-updated-legit",
