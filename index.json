@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-08T17:38:45.198Z",
+  "updatedAt": "2026-11-08T17:41:10.568Z",
   "packs": [
     {
       "id": "safe-defaults",
@@ -59,6 +59,21 @@
       "sha256": "bb79aee77223ac47a2b7ec937116fe55330cda26fff52dea47f4459731754df1",
       "path": "packs/v143-updated-legit.json",
       "size": 2663
+    },
+    {
+      "id": "shared-config",
+      "name": "Shared Config",
+      "author": "kzla.",
+      "description": "suj",
+      "tags": [
+        "s",
+        "a"
+      ],
+      "minModVersion": "1.4.1",
+      "bundleVersion": 2,
+      "sha256": "435123d305f0a30d48dd813da8e78a37f7ddff07dc16fc6fcfe81210dfceeb4f",
+      "path": "packs/shared-config.json",
+      "size": 2638
     }
   ]
 }
