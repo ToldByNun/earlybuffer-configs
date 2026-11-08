@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-11-08T09:13:11.459Z",
+  "updatedAt": "2026-11-08T09:18:06.395Z",
   "packs": [
     {
       "id": "safe-defaults",
@@ -38,13 +38,13 @@
       "author": "EarlyBuffer",
       "description": "selfCheck",
       "tags": [
-        "shared"
+        "selfcheck"
       ],
       "minModVersion": "1.4.1",
       "bundleVersion": 2,
-      "sha256": "f542ba054efea95cb738b324f5284fc23858ad2ceac51404ce4298a6aba25d37",
+      "sha256": "7b9ee72aa08b0ea21b8794c835d7a6ff44bdce4a12feb26779d893a2304ab441",
       "path": "packs/plangold-share.json",
-      "size": 2640
+      "size": 2638
     },
     {
       "id": "v143-updated-legit",
